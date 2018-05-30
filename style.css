@@ -1,0 +1,38 @@
+.yellow{
+    background-color: yellow;
+    border: 5px solid white;
+    width: 5%;
+    height: 5%;
+}
+
+.green {
+    background-color: green;
+    border: 5px solid white;
+    width: 10%;
+    height: 5%;
+}
+
+.gb {
+    background-color: aqua;
+    border: 5px solid white;
+    width: 10%;
+    height: 10%;
+}
+
+.blue {
+    background-color: lightslategray;
+    border: 5px solid white;
+}
+
+.purple {
+    background-color: blueviolet;
+    border:5px solid white;
+    height: 10%;
+}
+
+.pink {
+    background-color: palevioletred;
+    border: 5px solid white;
+    width: 100%;
+    height: 10%;
+}
